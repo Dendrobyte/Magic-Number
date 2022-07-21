@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "daily-increment",
+    "owner": "dendrobyte",
     "slug": "daily-increment",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -18,7 +19,8 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.dendrobyte.dailyincrement"
     },
     "android": {
       "adaptiveIcon": {
